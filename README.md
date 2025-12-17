@@ -79,7 +79,10 @@
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Azure MySQL](https://img.shields.io/badge/Azure%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Azure Table](https://img.shields.io/badge/Azure%20Table-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Azure CosmosDB](https://img.shields.io/badge/Azure%20CosmosDB-0066FF?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+![Azure CosmosDB](https://img.shields.io/badge/Azure%20CosmosDB-0066FF?style=for-the-badge&logo=azurecosmosdb&logoColor=white) 
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) 
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
 
 ---
 
