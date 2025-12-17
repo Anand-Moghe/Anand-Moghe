@@ -64,6 +64,22 @@
 ![Azure ARM](https://img.shields.io/badge/Azure%20ARM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### 🔹 Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=apple&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🔹 Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Azure MySQL](https://img.shields.io/badge/Azure%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Azure Table](https://img.shields.io/badge/Azure%20Table-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Azure CosmosDB](https://img.shields.io/badge/Azure%20CosmosDB-0066FF?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 
 ---
 
