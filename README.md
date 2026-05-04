@@ -9,7 +9,7 @@ I specialize in Public, Hybrid and sovereign (government) clouds, AI enablement,
 ## Core Strengths:
 - Cloud Strategy & Architecture: Azure, AWS, GCP, hybrid cloud, modernization, IaaS, PaaS, microservices, Serverless, HPC
 - AI & ML Enablement: AI agents, Bots, ML pipelines, intelligent automation
-- DevOps & Platform Engineering: GitHub, Azure DevOps Service, CI/CD, governance automation
+- DevOps & Platform Engineering: Terraform IaC, GitHub Action CI/CD, Bitbucket CI/CD, Azure DevOps Service, GitHub Advance Security, JFrog Artifactory, governance automation
 - Enterprise Modernization: Data center migration, resiliency, HA/DR, compliance (PCI, CJIS, NERC, FedRAMP)
 - Leadership & Delivery: Team building, stakeholder alignment, presales, GTM strategy
 - Full-Stack Engineering: .NET, Node.js, modern JS frameworks, LAMP, SQL/NoSQL ecosystems
