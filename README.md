@@ -11,7 +11,7 @@ I specialize in Public, Hybrid and sovereign (government) clouds, AI enablement,
 - AI & ML Enablement: AI agents, Bots, ML pipelines, intelligent automation
 - DevOps & Platform Engineering: Terraform IaC, GitHub Action CI/CD, Bitbucket CI/CD, Azure DevOps Service, GitHub Advance Security, JFrog Artifactory, governance automation
 - Enterprise Modernization: Data center migration, resiliency, HA/DR, compliance (PCI, CJIS, NERC, FedRAMP)
-- SRE and Obeservability tools like Dynatrace, Datadog
+- SRE and Obeservability tools like Dynatrace, Datadog, New Relic, Splunk, Elastic Stack, Azure Monitor, Azure Application Insight, Prometheus, Grafna, AWS CloudWatch, AWS X-Ray, AWS openSearch Observability
 - Kubernetes: EKS, AKS, GKS, Rancher & Service mesh like Istio, Linkerd, AWS App Mesh, Anthos Service Mesh and IaC with Terraform 
 - Leadership & Delivery: Team building, stakeholder alignment, presales, GTM strategy
 - Full-Stack Engineering: .NET, Node.js, modern JS frameworks, LAMP, SQL/NoSQL ecosystems
