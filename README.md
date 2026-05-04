@@ -11,6 +11,8 @@ I specialize in Public, Hybrid and sovereign (government) clouds, AI enablement,
 - AI & ML Enablement: AI agents, Bots, ML pipelines, intelligent automation
 - DevOps & Platform Engineering: Terraform IaC, GitHub Action CI/CD, Bitbucket CI/CD, Azure DevOps Service, GitHub Advance Security, JFrog Artifactory, governance automation
 - Enterprise Modernization: Data center migration, resiliency, HA/DR, compliance (PCI, CJIS, NERC, FedRAMP)
+- SRE and Obeservability tools like Dynatrace, Datadog
+- Kubernetes: EKS, AKS, GKS, Rancher & Service mesh like Istio, Linkerd, AWS App Mesh, Anthos Service Mesh and IaC with Terraform 
 - Leadership & Delivery: Team building, stakeholder alignment, presales, GTM strategy
 - Full-Stack Engineering: .NET, Node.js, modern JS frameworks, LAMP, SQL/NoSQL ecosystems
 - Full-Stack Cloud Native Software development | DevOps Engineer | Cloud Solutions Architect | Customer Engineer | Cloud Solution Sales lead | Product Manager 
